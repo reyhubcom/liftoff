@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Staking | Wiki Validator & Delegate Blockchain",
+    title: "Liftoff - AI-Powered Mock Interviews",
     description:
       "Liftoff is an AI-powered mock interview platform that helps you practice for your next job interview.",
     images: ["https://demo.useliftoff.com/opengraph-image"],
